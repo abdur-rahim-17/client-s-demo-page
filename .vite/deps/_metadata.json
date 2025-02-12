@@ -1,0 +1,100 @@
+{
+  "hash": "f0eb605d",
+  "configHash": "e8194a95",
+  "lockfileHash": "7dfbe757",
+  "browserHash": "df88e7e0",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1e047976",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "91d64103",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "1d62872d",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "716083fd",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Close": {
+      "src": "../../node_modules/@mui/icons-material/esm/Close.js",
+      "file": "@mui_icons-material_Close.js",
+      "fileHash": "496af134",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "ce69ec0e",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "3606934f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Construction": {
+      "src": "../../node_modules/@mui/icons-material/esm/Construction.js",
+      "file": "@mui_icons-material_Construction.js",
+      "fileHash": "77b617a6",
+      "needsInterop": false
+    },
+    "@mui/icons-material/WarningAmber": {
+      "src": "../../node_modules/@mui/icons-material/esm/WarningAmber.js",
+      "file": "@mui_icons-material_WarningAmber.js",
+      "fileHash": "d2237509",
+      "needsInterop": false
+    },
+    "@mui/icons-material": {
+      "src": "../../node_modules/@mui/icons-material/esm/index.js",
+      "file": "@mui_icons-material.js",
+      "fileHash": "f0da0053",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FYEQSBBN": {
+      "file": "chunk-FYEQSBBN.js"
+    },
+    "chunk-2TWLSXLY": {
+      "file": "chunk-2TWLSXLY.js"
+    },
+    "chunk-HMYO5DPJ": {
+      "file": "chunk-HMYO5DPJ.js"
+    },
+    "chunk-O4ACZ7LQ": {
+      "file": "chunk-O4ACZ7LQ.js"
+    },
+    "chunk-DJ6T5WHF": {
+      "file": "chunk-DJ6T5WHF.js"
+    },
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-QN2B3MMV": {
+      "file": "chunk-QN2B3MMV.js"
+    },
+    "chunk-XBPWDIN4": {
+      "file": "chunk-XBPWDIN4.js"
+    },
+    "chunk-HPXHVO4K": {
+      "file": "chunk-HPXHVO4K.js"
+    },
+    "chunk-LABQ442N": {
+      "file": "chunk-LABQ442N.js"
+    }
+  }
+}
